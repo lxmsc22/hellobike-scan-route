@@ -1,8 +1,6 @@
-# 哈啰新版扫一扫 URL Scheme：hellobike://hellobike.com/scan_qr_platform
+# 哈啰新版扫一扫 URL Scheme 记录
 
 本仓库记录 `hellobike://hellobike.com/scan_qr_platform` 等哈啰新版扫一扫 URL Scheme，用于 iOS 快捷指令打开哈啰 App 扫码界面。
-
-关键词：Hellobike、HelloBike、哈啰、URL Scheme、iOS Shortcuts、快捷指令、scan QR、扫码、扫一扫。
 
 ## 结论
 
